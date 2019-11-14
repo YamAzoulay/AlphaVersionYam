@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058270816889",
+    "firebase_url": "https://alphaversionyam.firebaseio.com",
+    "project_id": "alphaversionyam",
+    "storage_bucket": "alphaversionyam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058270816889:android:c8e2dc68d588c40071c2a8",
+        "android_client_info": {
+          "package_name": "com.example.alphaversionyam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058270816889-11kf9db1huu1tu5rafqavougp92b0m2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alphaversionyam",
+            "certificate_hash": "9bfa51f386115e339ab14c2efe966bee39e020dc"
+          }
+        },
+        {
+          "client_id": "1058270816889-hjr52uu5e7hpc6578gr8de5q8g9toi2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFE3B0CUxuUcscxeOC2Axe0CheJ7i2O0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058270816889-hjr52uu5e7hpc6578gr8de5q8g9toi2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
